@@ -27,7 +27,7 @@ Bel: Well! I choose this Pokémon!\xfffeAnd Cheren gets that one!\xf000븁\x0000
 Cheren: And why are YOU choosing\xfffemy Pokémon...?\xf000븁\x0000Well, not like I didn't want\xfffe\xf000ā\x0001\x0001 from the start anyway.\xf000븁\x0000
 Bel: Everyone's chosen their own Pokémon!\xfffeWhich means...\xf000븁\x0000Come on!\xfffeHeyyy! Let's have a Pokémon battle!\xf000븁\x0000
 Cheren: ...Uh, Bel? Our Pokémon\xfffeare still weak.\xf000븁\x0000And there's no sense in a\xfffePokémon battle indoors!\xf000븁\x0000
-Bel: Gosh, it's fiiiiine!\xfffeLike you said, our guys are\xf000븀\x0000still weak, right?\xf000븁\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Come on \xf000Ā\x0001\x0000!\xfffeLet's battle right now!\xf000븁\x0000
+Bel: Gosh, it's fiiiiine!\xfffeLike you said, our Pokémon are\xf000븀\x0000still weak, right?\xf000븁\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Come on \xf000Ā\x0001\x0000!\xfffeLet's battle right now!\xf000븁\x0000
 ねえねえ！ あたしと\xfffeポケモンしょうぶ しよう！\xf000븁\x0000\xf000Ā\x0001\x0000が そのきに なったら\xfffeアタシに はなしかけて
 ……はこは からっぱ
 Cheren: ウーン…… そうだな\xfffeあいて してあげれば？\xf000븁\x0000ポケモンを てにいれて\xfffeはしゃぎたくなる きもち\xf000븀\x0000わからないでも ないし\xf000븁\x0000
@@ -42,24 +42,24 @@ Bel: WAAAH! W-What's all this about?!\xf000븁\x0000
 Pokémon are MIND-BLOWING!! \xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad I could have a Pokémon!\xfffeOh... sorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
 Cheren: ...There's really nothing to \xfffebe done with you, is there...\xf000븁\x0000Here! I'll recover your wounded Pokémon...\xf000븁\x0000
 Cheren healed Bel's Pokémon!
-And of course, \xf000Ā\x0001\x0000's Pokémon needs to recover, too.\xf000븁\x0000
+And of course, \xf000Ā\x0001\x0000's Pokémon needs \xfffeto recover, too.\xf000븁\x0000
 Cheren healed \xf000Ā\x0001\x0000's Pokémon!
 Cheren: ポケモンの たいりょく……\xfffeＨＰを へらすことなく\xf000븀\x0000しょうりするのは すごいよ\xf000븁\x0000だけど ポケモンの わざポイント……\xfffeＰＰが へっているからね\xf000븁\x0000
-Bel: Bel: Heyyy! How about you fight \xfffea Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and \xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
+Bel: Heyyy! How about you have \xfffea Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and \xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
 Cheren: W-Well, of course...!\xf000븁\x0000On top of my knowledge, I won't \xfffehave to worry so much about messing \xf000븀\x0000up the room.\xf000븀\x0000And most importantly...\xfffeonly the two of you getting to enjoy a battle\xf000븀\x0000wouldn't be fair at all.\xf000븁\x0000
 \xf000Ā\x0001\x0000……\xf000븁\x0000へやは よごさないと ちかうから\xfffeぼくとも しょうぶ してくれないか？\xf000븀\x0000よければ はなしかけてよ
 So... I challenge you!\xf000븁\x0000
 Bel: あたしね \xf000Ā\x0001\x0000と\xfffeCherenの ポケモンしょうぶ って\xf000븀\x0000ぜったいに みごたえ あるとおもう！
 Cheren: This will be our first Pokémon battle!
 \xf000ā\x0001\x0001... I'll show them your power!\xf000븁\x0000
-Cheren: I may have come away from my\xfffefirst Pokémon battle with failure, but...\xf000븁\x0000This intense excitement... \xfffeI've finally become a trainer!\xf000븁\x0000
 Cheren: This intense excitement... \xfffeI've finally become a trainer!\xf000븁\x0000...And yet, I suppose we'll have\xfffeto apologize for the state of your\xf000븀\x0000room to your mom.\xf000븁\x0000
+Cheren: I may have come away from my\xfffefirst Pokémon battle with failure, but...\xf000븁\x0000This intense excitement... \xfffeI've finally become a trainer!\xf000븁\x0000
 Cheren: この かんどう……\xfffeようやく トレーナーに なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと きみの ママに\xf000븀\x0000あやまらないと いけないね\xf000븁\x0000
 Bel: Oh! Yeah, me too!\xf000븁\x0000
-A Wii! xfffeIt has a remote for a controller!
-A Wii!\xf000븁\x0000It's not broken at all!
+A Wii! \xfffeIt has a remote for a controller!
+A Wii! \xfffeIt wasn't broken in the fight!
 Dad bought\xfffea flat screen TV!
-My Bed!\xf000븁\x0000The clean sheets smell good!
+My Bed!\xfffeThe clean sheets smell good!
 The bed is a mess...!
 \xf000Ā\x0001\x0000 booted up the PC!\xf000븁\x0000Topic: Pokémon Battles\xf000븁\x0000Fighting requires knowledge to do.\xfffeIf you don't how, just learn it!\xf000븁\x0000Battling answers all your Questions.\xfffeSo just go Battling!
 イッシュずかん かんせいの\xfffeひょうしょうじょう だ！\xf000븁\x0000
