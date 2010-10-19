@@ -1,30 +1,30 @@
-ようこそ！\xfffeシッポウはくぶつかん へ
-あのドロボウ…… プラズマだん って\xfffeいったい なにもの ですか？
-ポケモンジムへは\xfffeはくぶつかんの おくから いけます！
-ドラゴンのホネを うばって\xfffeどうする つもり でしょう？
-うーむ！ この こっかくは\xfffeいつみても…… ホレボレしますな\xf000븁\x0000
-どうも わたくし\xfffeふくかんちょうの キダチ です\xf000븁\x0000せっかく いらしたのです \xfffeかんないを あんない しましょう！\xf000븁\x0000
-こちらの こっかく……\xfffeドラゴンタイプの ポケモンですね\xf000븁\x0000おそらく せかいかくちを\xfffeとびまわっている うちに\xf000븀\x0000なんらかの じこにあって\xf000븀\x0000そのまま カセキに なったようです\xf000븁\x0000
-この いしは すごいですよ\xfffeいんせき なんですよ！\xf000븁\x0000なにかしらの\xfffeうちゅうエネルギーを ひめています\xf000븁\x0000
-ああ こちらは\xfffeただの ふるいいし です\xf000븁\x0000さばくあたりで みつかったのですが\xfffeふるいこと いがいには まったく\xf000븀\x0000かちが なさそうな ものでして……\xf000븁\x0000ただ とても キレイですので\xfffeてんじ しております\xf000븁\x0000
-この さきが\xfffeポケモンジムと なっております\xf000븁\x0000
-いちばん おくで つよくて やさしい\xfffeジムリーダーが まってます\xf000븁\x0000ちなみに ジムリーダーの アロエは\xfffeわたくしの おくさん なのです\xf000븁\x0000
-いちばん おくで つよくて やさしい\xfffeジムリーダーが まってます\xf000븁\x0000ちなみに ジムリーダーの アロエは\xfffeわたくしの おくさん なのです
-アロエ『ちょっと アンタたち！\xfffeおふざけは よしとくれ！！\xf000븁\x0000
-プラズマだん『きたか ジムリーダー\xf000븁\x0000われわれ プラズマだんは\xfffeポケモンを じゆうに するため\xf000븁\x0000はくぶつかんに ある\xfffeドラゴンのホネを いただく\xf000븁\x0000
-プラズマだん『われわれが\xfffeほんきであることを おしえるため\xf000븀\x0000あえて おまえのまえで うばおう\xf000븁\x0000
-プラズマだん『では えんまく！\xf000븁\x0000
-プラーズマー
-プラーズマー
-アロエ『なんてこったい……\xf000븁\x0000
-キダチ『あっ あっ！？\xfffeおいかけないと いけないですよね\xf000븁\x0000
-キダチ『あの ホネは\xfffeアロエが だいすきな もの……
+Welcome!\xfffeWelcome to the Shippou Museum!
+Those thieves... What on earth\xfffeis "Team Plasma"?
+The Pokémon Gym is\xfffein the back of the museum！
+They took the dragon bone!\xfffeWhat are they planning to do with it?
+Hmmm! Every time I see this skeleton...\xfffeit's simply charming!\xf000븁\x0000
+Ah, hello. I'm the\xfffevice-curator, Kidachi.\xf000븁\x0000You've come a long way. \xfffeI'll show you around the building!\xf000븁\x0000
+This skeleton...\xfffeIt's from a Dragon-type Pokémon.\xf000븁\x0000Perhaps there was some kind of\xfffedisaster while it still roamed\xf000븀\x0000the Earth, which caused it to\xf000븀\x0000fossilise like this.\xf000븁\x0000
+This stone is amazing!\xfffeIt's a meteorite, in fact!\xf000븁\x0000There appears to be some kind of\xfffespace energy coming from it.\xf000븁\x0000
+Aah... this is a\xfffeperfectly normal old stone.\xf000븁\x0000It was found in the desert, but\xfffeits age is probably its\xf000븀\x0000only valuable quality...\xf000븁\x0000But it's very pretty, so\xfffewe display it here.\xf000븁\x0000
+Past here is\xfffethe Shippou City Gym.\xf000븁\x0000
+At the back, you'll find the strong,\xfffekind Shippou Gym leader.\xf000븁\x0000Ah - I should mention that\xfffeGym Leader Aloe is my wife.\xf000븁\x0000
+At the back, you'll find the strong,\xfffekind Shippou Gym leader.\xf000븁\x0000Ah - I should mention that\xfffeGym Leader Aloe is my wife.\xf000븁\x0000
+Aloe: Hold it, you lot!\xfffeStop messing around and give that back!\xf000븁\x0000
+Team Plasma: Ah, you came, Gym Leader!\xf000븁\x0000We, Team Plasma, are\xfffetaking this dragon skull\xf000븁\x0000from your museum\xfffein the name of Pokémon liberation!\xf000븁\x0000
+Team Plasma:\xfffeAnd just to prove we're serious,\xf000븀\x0000we'll do it before your very eyes!\xf000븁\x0000
+Team Plasma: Here we go! SMOKESCREEN!\xf000븁\x0000
+PLAAAAASMAAAAAA!
+PLAAAAASMAAAAAA!
+Aloe: What in the name of...?\xf000븁\x0000
+Kidachi: A-Aah!\xfffeWe have to go after them!\xf000븁\x0000
+Kidachi: That bone is\xfffeAloe's treasured possession...
 ベル『ドロボウだなんて\xfffeあたし ゆるせない！！
 チェレン『プラズマだんの せいで\xfffeジムリーダーと たたかえないのか……\xf000븁\x0000なんて メンドーな はなし だろう
 ホネの ひょうほん って\xfffeふしぎ なんですよ……\xf000븁\x0000きのうてきで むだのない デザインも\xfffeがいけん からは みえない\xf000븁\x0000なんだか ほんしつ って ことばを\xfffeあらわしているようで…… ホレボレです
 せかいかっこくの めずらしいモノ……\xfffeはくぶつかんは ロマンが つまってる
 あわわわわ！
-ここの ジムリーダーは\xfffeカセキや ポケモンのホネ の\xf000븀\x0000けんきゅうも しているってね
+The Gym Leader here\xfffealso researches fossils\xf000븀\x0000and Pokémon bones.
 ドロボウたちの\xfffeあの だいたんな こうどう……\xf000븁\x0000まるで じぶんたちの していることが\xfffeただしいと しんじているみたい
 もしかすると いんせきと いっしょに\xfffeうちゅうから やってきた\xf000븀\x0000ポケモンも いるかもしれんのう
 あの プラズマだん というのは\xfffeいったい なにを かんがえている！？
@@ -32,7 +32,7 @@
 プラズマだんに うばわれ\xfffeホネの いちぶが ない！！
 とても がんじょうな こうらで\xfffeまもっていた ポケモンのカセキ
 うちゅうウイルスが\xfffeふちゃくしていた いんせき
-さばくに うもれていた\xfffeこだいの まるい いし
+A round rock from ancient times,\xfffefound in the desert.
 まだ かいどく されていない\xfffeもじが きざまれた せきばん
-むかしの ひとびとが\xfffeまつりのときに つけた かめん
+A mask people wore for\xfffefestivals long ago.
 とある ポケモンが\xfffeぶきとして もっていた ホネ
