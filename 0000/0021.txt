@@ -1,10 +1,10 @@
-チェレン『ついてきなよ\xf000븁\x0000
-このまま まっすぐ すすめば\xfffeポケモンセンター\xf000븁\x0000あと……\xfffeよければ これを つかいなよ\xf000븁\x0000
-チェレン『カゴのみを ポケモンに\xfffeもたせておけば ねむらされても\xf000븀\x0000ポケモンは かいふくして めざめる\xf000븁\x0000ついでに アドバイス\xf000븁\x0000シッポウシティの ジムリーダーは\xfffeノーマルタイプの つかいて\xf000븁\x0000かくとうタイプの ポケモンが いると\xfffeかなり ゆうり かもね\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ボクは…… ダレにも\xfffeみえない ものが みたいんだ\xf000븁\x0000ボールの なかの\xfffeポケモンたちの りそう\xf000븁\x0000トレーナーという\xfffeありかたの しんじつ\xf000븁\x0000そして ポケモンが\xfffeかんぜんと なった みらい……\xf000븁\x0000キミも みたいだろう？\xf000븉\x0001\x0000
-Ｎ『\xf000븉\x0001\x0001そうかい\xf000븁\x0000では ボクと\xfffeボクの トモダチで\xf000븀\x0000みらいを みることが できるか\xf000븀\x0000キミで たしかめさせて もらうよ\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……ふうん\xfffeきたいはずれ だな\xf000븁\x0000それよりも ボクと\xfffeボクの トモダチで\xf000븀\x0000みらいを みることが できるか\xf000븀\x0000キミで たしかめさせて もらうよ\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001いまの ボクの トモダチとでは\xfffeポケモンを すくいだせない……\xf000븁\x0000せかいを かえるための\xfffeすうしきは とけない……\xf000븁\x0000ボクには ちからが ひつようだ……\xfffeだれもが なっとくする ちから……\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: Come with me.\xf000븁\x0000
+Head straight this way\xfffeto get to the Pokémon Center.\xf000븁\x0000And... if you want,\xfffeyou can use this.\xf000븁\x0000
+Give a Chesto Berry to a Pokémon,\xfffeand even if it falls asleep,\xf000븀\x0000it'll use it to wake up.\xf000븁\x0000Lastly, some advice.\xf000븁\x0000The gym leader of Shippo City\xfffeuses normal-types.\xf000븁\x0000If you bring fighting-type Pokémon,\xfffethey'll probably be a great advantage.\xf000븁\x0000
+N: \xf000븉\x0001\x0001I... want to see things\xfffeno one else sees.\xf000븁\x0000The ideal for the Pokémon\xfffewe keep inside balls...\xf000븁\x0000The truth of what\xfffea "trainer" should be...\xf000븁\x0000And a future where Pokémon\xfffehave attained their zenith...\xf000븁\x0000Don't you wish to see them, too?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Is that so?\xf000븁\x0000Then, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...Hmph.\xfffeSo my expectations were incorrect.\xf000븁\x0000More importantly, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001As they are now, my Pokémon\xfffecannot save all Pokémon...\xf000븁\x0000The formula that can change the world\xfffeis yet to be solved...\xf000븁\x0000I require power...\xfffePower that will let everyone understand...\xf000븉\x0001\x0000\xf000븁\x0000
 no data
 ……ひつような\xfffeちからは わかっている\xf000븁\x0000……えいゆうと ともに\xfffeこの イッシュちほうを つくった\xf000븀\x0000でんせつの ポケモン レシラム！\xf000븁\x0000ボクは えいゆうに なり\xfffeキミと トモダチに なる！\xf000븁\x0000
 ……ひつような\xfffeちからは わかっている\xf000븁\x0000……えいゆうと ともに\xfffeこの イッシュちほうを つくった\xf000븀\x0000でんせつの ポケモン ゼクロム！\xf000븁\x0000ボクは えいゆうに なり\xfffeキミと トモダチに なる！\xf000븁\x0000
