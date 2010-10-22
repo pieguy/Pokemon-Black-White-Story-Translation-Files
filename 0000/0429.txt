@@ -3,14 +3,14 @@ Bel: U-Um, we'll clean it up...\xf000븁\x0000
 Mom: Clean it up?\xfffeOh, it's fine, it's fine!\xf000븀\x0000I'll take care of it later.\xf000븁\x0000Better that you go meet \xfffeProfessor Araragi, am I right?\xf000븁\x0000
 Cheren: Yes, ma'am! Well, if you'll \xfffeexcuse me.\xf000븁\x0000I must be off to give my \xfffethanks to Professor Araragi.\xf000븁\x0000
 I'll be waiting in front of \xfffethe Pokémon lab.\xf000븁\x0000
-Bel: Oh! I've got to go home for\xfffea sec.\xf000븁\x0000
-Thanks, ma'am! Sorry for being a nuisance!\xf000븁\x0000
+Bel: Oh! I've got to go home for a sec.\xf000븁\x0000
+Thanks, ma'am!\xfffeSorry for being a nuisance!\xf000븁\x0000
 Mom: \xf000Ā\x0001\x0000...\xf000븁\x0000Pokémon battles are exceptionally \xfffelively, aren't they!\xf000븁\x0000
-I heard Pokémon cries and the \xfffelike from all the way \xf000븀\x0000down here!\xf000븁\x0000
-Your very first Pokémon battle! \xfffeAh, how I remember my own...\xf000븁\x0000
-Right! I'll have to rest the \xfffePokémon you battled with!\xf000븁\x0000
+I heard Pokémon cries and the like from \xfffeall the way from down here!\xf000븁\x0000
+Your very first Pokémon battle! \xfffeAh, how I remember my own...\xf000븁\x0000Right! I'll have to rest the \xfffePokémon you battled with!\xf000븁\x0000
 Your Pokémon is feeling great!\xf000븁\x0000Oh, and if you're going out, \xfffedon't forget your Live Caster.\xf000븁\x0000
-You're going to thank the \xfffeProfessor too, aren't you?! Well, be off, then!
+You're going to thank the Professor\xfffe too, aren't you?! Well, be off, then!
+You're going to thank the Professor\xfffe too, aren't you?! Well, be off, then!
 Mom: ふう！ おかたづけは\xfffeちょっと きゅうけい\xf000븁\x0000あなたも あなたの ポケモンも\xfffeちょっと きゅうけい しなさいな\xf000븁\x0000いい トレーナーは\xfffeポケモンに むりさせないのよ\xf000븁\x0000
 Mom: これで あなたも\xfffeポケモンも げんきいっぱい！\xf000븀\x0000\xfffeどこへだって いけるわね！
 Mom: つぎは どこに いって\xfffeどんな ポケモンと であうのかしら？
